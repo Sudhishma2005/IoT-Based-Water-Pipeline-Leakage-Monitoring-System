@@ -66,7 +66,7 @@ Project photographs, source code, dashboard screenshots, and the demonstration v
 
 Team Members
 
-- Sudhishma S.
+- Sudhishma S
 - Meera Sankar S
 
 Future Improvements
